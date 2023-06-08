@@ -43,8 +43,6 @@ The CD DVD Rental Store Database supports various queries to retrieve and manage
 9. Compute monthly expenses for each store.
 10. List all expired subscriptions and customer details.
 
-Please refer to the [Queries](#queries) section in this README file for detailed explanations and query examples.
-
 ## Usage
 
 To use the CD DVD Rental Store Database, you need to have a supported relational database management system (RDBMS) installed, such as MySQL, PostgreSQL, or Oracle Database. Follow these steps to set up the database:
